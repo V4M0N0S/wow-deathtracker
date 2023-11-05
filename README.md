@@ -1,4 +1,4 @@
-# [World of Wacraft Addon] DEATHTRACKER
+# [World of Warcraft Addon] DEATHTRACKER
 This simple and easy to use addon plays a sound if an enemy dies. It tracks only the real death and ignores spells like "feign death" etc.
 
 If you want customize the sound, just replace Deathtracker.ogg in the addon folder.
