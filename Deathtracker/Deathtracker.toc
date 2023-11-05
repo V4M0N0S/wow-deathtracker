@@ -4,7 +4,7 @@
 ## Interface: 100107
 ## LoadOnDemand: 0
 ##
-## Version: 0.1 Alpha
+## Version: 1.0.2
 ## Author: V4M0N0S
 ## IconTexture: Interface\Icons\achievement_legionpvp4tier2
 
