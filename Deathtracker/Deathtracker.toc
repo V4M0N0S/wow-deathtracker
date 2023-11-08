@@ -1,10 +1,10 @@
 ## Title: |cffffb347[V]|r Deathtracker |cffffb347by V4M0N0S|r
 ## Notes: Automatically play a sound when an arena enemy dies.
 ## X-Website: https://github.com/V4M0N0S/wow-deathtracker
-## Interface: 100107
+## Interface: 100200
 ## LoadOnDemand: 0
 ##
-## Version: 1.0.2
+## Version: 2.0.0
 ## Author: V4M0N0S
 ## IconTexture: Interface\Icons\achievement_legionpvp4tier2
 
